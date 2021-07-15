@@ -231,6 +231,6 @@ footer .arrow{
     }
     .buttons--area a {
         margin: 10px 20px;
-        width: calc(100vw - 80px)
+        width: calc(100vw - 80+px)
     }
 }
